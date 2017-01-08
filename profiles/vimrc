@@ -20,7 +20,8 @@ Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'wombat256.vim'
 Plugin 'taskpaper.vim'
-Plugin 'Markdown'
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
 Plugin 'scala.vim'
 
 " All of your Plugins must be added before the following line
